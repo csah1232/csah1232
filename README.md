@@ -1,8 +1,8 @@
 # Hi, I'm Chandrashekhar
 
 DevOps Engineer at Red Hat
-Ex-Nokia | Telecom Cloud | Automation
 
+Ex-Nokia |Cloud | Automation | Devops | AWS | 
 ---
 
 ## Tech Stack
